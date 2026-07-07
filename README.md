@@ -39,8 +39,5 @@ Centraliser et versionner les livrables nécessaires à la certification :
 
 ## Contexte
 
-Le Titre Professionnel DWWM atteste de la capacité à concevoir et développer des applications web et web mobile, en front-end comme en back-end. Ces documents constituent le socle de l'évaluation finale (dossier écrit + soutenance orale devant un jury).
+Le Titre Professionnel DWWM atteste de la capacité à concevoir et développer des applications web et web mobile avce les bonnes pratiques de sécurité, en front-end comme en back-end. Ces documents constituent le socle de l'évaluation finale (dossier écrit + soutenance orale devant un jury).
 
-## Statut
-
-Documents en cours de finalisation en vue de la présentation devant le jury.
